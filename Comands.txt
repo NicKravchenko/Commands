@@ -18,7 +18,7 @@ git pull
 git add name
 git add.  //add all
 
-git restore
+git restore 
 
 git remote
 
