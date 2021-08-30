@@ -1,0 +1,33 @@
+cd - change diraectory
+pwd - print working directory
+ls - list stuff
+
+whyyy AAAAA a
+git status
+git clone
+
+git commit -a -m "A - for all files, m for message like that"
+
+git commit -a -m "A - for all files, m for message like that"
+
+git push
+git push origin main
+
+git pull
+
+git add name
+git restore
+
+git remote
+
+git init
+
+rm .git/index.lock //when Another git process seems to be running in this repository
+
+
+VIM
+:q 
+clear
+
+
+
